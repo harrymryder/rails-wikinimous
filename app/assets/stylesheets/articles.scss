@@ -1,0 +1,17 @@
+// Place all the styles related to the articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@import "font-awesome";
+
+.article {
+  h3 {
+    color: gray;
+    text-decoration: none;
+  }
+  p {
+    color: black;
+  }
+}
+a {
+  text-decoration: none;
+}
